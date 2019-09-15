@@ -1,2 +1,2 @@
 # CSGO-Report-Bot
-Its a Joke
+its just a bot use websites to report
