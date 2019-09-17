@@ -61,6 +61,7 @@ if __name__ == '__main__':
 		usr=input("Enter Username -->").lower()
 		pas=input("Enter Password -->").lower()
 		if check(usr,pas):
+			messagebox.showinfo("Message","Login Successful")
 			os.system("cls")
 			print(logo)
 			print("Type Profile Url")
